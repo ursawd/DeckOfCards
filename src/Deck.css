@@ -1,0 +1,12 @@
+.Deck {
+  background-color: green;
+  width: 400px;
+  height: 500px;
+  margin: auto auto;
+  color: white;
+}
+.Deck-btn {
+  color: white;
+  background-color: steelblue;
+  height: 30px;
+}
